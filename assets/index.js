@@ -1,5 +1,1 @@
-const a = 1
-
-const b = 2
-
-console.log(a, b)
+const a=1,b=2,c=3;console.log(1,2,3);
